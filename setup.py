@@ -50,7 +50,7 @@ with open('requirements.txt') as fp:
 
 import pwnagotchi
 
-setup(name='pwnagotchi',
+setup(name='Pettter',
       version=pwnagotchi.version,
       description='(⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFI pwning.',
       author='evilsocket && the dev team',
